@@ -1,6 +1,6 @@
 # Howdy!
-### I'm  student from HSE NN Software Engineering. Now I working on my course and other school work.
-### I'm just starting my IT journey and I hope it goes smoothly. 
+### I'm a student at HSE NN Software Engineering. Now I'm working on my course and other school work.
+### I'm just starting my IT journey, and I hope it goes smoothly. 
 <!--
 **MINTCanella/MINTCanella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
